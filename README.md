@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abhijeet+Singh+%E2%9C%A8;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Crafting+Code+%7C+Building+the+Future" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abhijeet+Singh+%E2%9C%A8;Software+Developer+%7C+GenAI+Practitioner;Building+intelligent+AI-powered+solutions" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### <p align="center">👋 About Me</p>
 
 <p align="center">
-  I'm a passionate developer with a love for building beautiful, scalable software. I thrive at the intersection of backend logic and cutting-edge AI. My goal is to leverage technology to create intelligent, impactful solutions.
+  I'm a passionate <b>Software Developer</b> specializing in building intelligent applications powered by <b>Generative AI</b>. I have hands-on project experience developing solutions with <b>Large Language Models (LLMs)</b>, <b>LangChain</b>, and <b>RAG</b> architectures to solve complex problems.
 </p>
 
 ### <p align="center">🚀 My Tech Arsenal</p>
@@ -22,35 +22,35 @@
   <table width="100%">
     <tr align="center">
       <td width="33%">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Generative_AI-F7216B?style=for-the-badge" />
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-1F51FF?style=for-the-badge" />
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/RAG-9745F5?style=for-the-badge" />
       </td>
     </tr>
     <tr align="center">
       <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+      <td>
         <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       </td>
     </tr>
      <tr align="center">
       <td>
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </td>
     </tr>
   </table>
