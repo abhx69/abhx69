@@ -39,7 +39,7 @@
         <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </td>
     </tr>
      <tr align="center">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhx69/abhx69/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
+  <img src="https://github.com/abhx69/abhx69/raw/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
 </p>
 
 <p align="center">
