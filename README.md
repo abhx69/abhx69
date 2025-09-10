@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eklak+Alam;Backend+Engineer+%7C+AI+Developer+%7C+Freelancer;Building+scalable+apps%2C+APIs+%26+AI-powered+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijeet+Singh;Software+Developer+%7C+Backend+Engineer+%7C+AI+Enthusiast;I+build+scalable+apps%2C+APIs+%26+AI-powered+solutions" />
 </p>
 
 ---
 
-### 👋 Hey there, I'm Eklak Alam!
+### 👋 Hey there, I'm Abhijeet Singh!
 
-I'm a passionate Backend Engineer and Web Developer with a strong focus on building robust, scalable applications. My current journey is diving deep into the world of **Generative AI** and **Large Language Models (LLMs)** to create intelligent, next-generation solutions.
+I'm a passionate Software Developer with a strong focus on building robust, scalable applications. My current journey is diving deep into the world of **Generative AI** and **Machine Learning** to create intelligent, next-generation solutions.
 
 ---
 
@@ -21,7 +21,7 @@ I'm a passionate Backend Engineer and Web Developer with a strong focus on build
 
 ### 🧑‍💻 My Tech Stack
 
-I've organized my skills below. GitHub's Markdown doesn't support the advanced HTML styling you used, so I've reformatted your tech stack into this clean and widely-supported Markdown table.
+*(This is a template based on the previous example. Feel free to edit this table to match your exact skill set!)*
 
 | **Area** | **Technologies & Tools** |
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,48 +33,21 @@ I've organized my skills below. GitHub's Markdown doesn't support the advanced H
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My Projects
 
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr align="center">
-    <td width="50%">
-      <strong>🏛 Balaji Government Project</strong><br/>
-      <a href="https://github.com/Eklak-Alam/Training-Project-With-Certificate-Generate-Frontend-Code"><img src="https://img.shields.io/badge/-Code-000?&logo=github" /></a>
-      <a href="https://balajitraining.in/"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen" /></a>
-    </td>
-    <td width="50%">
-      <strong>🎓 Shanaya Training Institute</strong><br/>
-      <a href="https://github.com/Eklak-Alam/LMS-Learning-management-system-"><img src="https://img.shields.io/badge/-Code-000?&logo=github" /></a>
-      <a href="https://shanayatraining.com/"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen" /></a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <strong>🏠 Adichar Interior Design</strong><br/>
-      <a href="https://github.com/Eklak-Alam/ADICHR-Client"><img src="https://img.shields.io/badge/-Code-000?&logo=github" /></a>
-      <a href="https://www.adichr.com/"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen" /></a>
-    </td>
-    <td>
-      <strong>🌐 Stack Connect</strong><br/>
-      <a href="https://github.com/Eklak-Alam/Stack-Connect"><img src="https://img.shields.io/badge/-Code-000?&logo=github" /></a>
-      <a href="https://www.stackconnect.tech/"><img src="https://img.shields.io/badge/-Live%20Demo-brightgreen" /></a>
-    </td>
-  </tr>
-</table>
+This is a great place to showcase your work! Below is a template you can use. **Remove the `` comment tags** and fill in your project details.
 
 ---
 
 ### 📊 My GitHub Stats & Activity
 
-This section provides a dynamic overview of my GitHub activity.
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eklak-Alam&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Eklak Alam's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eklak-Alam&layout=compact&theme=transparent&hide_border=true" alt="Eklak Alam's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhx69&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Abhijeet Singh's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhx69&layout=compact&theme=transparent&hide_border=true" alt="Abhijeet Singh's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Eklak-Alam/Eklak-Alam/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
+  <img src="https://github.com/abhx69/abhx69/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of my contributions" />
 </p>
 
 ---
