@@ -86,7 +86,6 @@
 ### <p align="center">📫 Let's Connect!</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUREMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhijeet-singh-5a0202302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhijeetsingh5102005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
