@@ -71,7 +71,7 @@
 ### <p align="center">📊 My GitHub Stats</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhx69&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Abhijeet Singh's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhx69&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Abhijeet Singh's Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhx69&layout=compact&theme=synthwave&hide_border=true" alt="Abhijeet Singh's Top Languages" />
 </p>
 
