@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abhijeet+Singh+%E2%9C%A8;Software+Developer+%7C+GenAI+Practitioner;Building+intelligent+AI-powered+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abhijeet+Singh+%E2%9C%A8;Tech+Enthusiast+%7C+Curious+Learner;Exploring+the+world+of+Code+%26+AI" />
 </div>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ### <p align="center">👋 About Me</p>
 
 <p align="center">
-  I'm a passionate <b>Software Developer</b> specializing in building intelligent applications powered by <b>Generative AI</b>. I have hands-on project experience developing solutions with <b>Large Language Models (LLMs)</b>, <b>LangChain</b>, and <b>RAG</b> architectures to solve complex problems.
+  Hi, I'm Abhijeet! I'm a tech enthusiast on a journey to become a developer. I'm fascinated by how things work, especially in the world of <b>Artificial Intelligence</b>. Right now, I'm diving into <b>Generative AI</b> and learning how to use cool tools like <b>LangChain</b> and <b>LLMs</b> for my projects. I'm always excited to learn something new!
 </p>
 
-### <p align="center">🚀 My Tech Arsenal</p>
+### <p align="center">🛠️ Technologies I'm Learning</p>
 
 <div align="center">
   <table width="100%">
@@ -61,6 +61,9 @@
 </p>
 
 ### <p align="center">✨ My Projects</p>
+
+<p align="center">Here are a few projects I've built while learning. Feel free to take a look!</p>
+
 <p align="center">
   <img src="https://github.com/abhx69/abhx69/raw/main/assets/divider.gif" alt="Divider">
 </p>
